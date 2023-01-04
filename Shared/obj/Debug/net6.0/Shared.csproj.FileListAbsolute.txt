@@ -1,0 +1,12 @@
+C:\Development\SagaChoreography\Shared\bin\Debug\net6.0\Shared.deps.json
+C:\Development\SagaChoreography\Shared\bin\Debug\net6.0\Shared.dll
+C:\Development\SagaChoreography\Shared\bin\Debug\net6.0\Shared.pdb
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\Shared.dll
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\refint\Shared.dll
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\Shared.pdb
+C:\Development\SagaChoreography\Shared\obj\Debug\net6.0\ref\Shared.dll
